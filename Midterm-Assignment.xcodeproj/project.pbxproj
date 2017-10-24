@@ -7,21 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BF15C6DD1F86733600D0EEB9 /* scrollviewio.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF15C6DC1F86733600D0EEB9 /* scrollviewio.swift */; };
+		BF15C6DF1F867B5F00D0EEB9 /* scrollViewNessus.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF15C6DE1F867B5F00D0EEB9 /* scrollViewNessus.swift */; };
+		BF9B54D51F86B98700481F79 /* scrollViewTitan.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF9B54D41F86B98700481F79 /* scrollViewTitan.swift */; };
+		BFA1FFBE1F8561EE008CA745 /* gif.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFA1FFBD1F8561EE008CA745 /* gif.swift */; };
+		BFA1FFC01F8563D4008CA745 /* galaxy.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFA1FFBF1F8563D4008CA745 /* galaxy.gif */; };
 		BFB095731F83CC7F0010FD76 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB095721F83CC7F0010FD76 /* AppDelegate.swift */; };
 		BFB095751F83CC7F0010FD76 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFB095741F83CC7F0010FD76 /* ViewController.swift */; };
 		BFB095781F83CC7F0010FD76 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFB095761F83CC7F0010FD76 /* Main.storyboard */; };
-		BFB0957A1F83CC7F0010FD76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFB095791F83CC7F0010FD76 /* Assets.xcassets */; };
 		BFB0957D1F83CC7F0010FD76 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BFB0957B1F83CC7F0010FD76 /* LaunchScreen.storyboard */; };
+		BFB095851F83D07D0010FD76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BFB095841F83D07D0010FD76 /* Assets.xcassets */; };
+		BFC89FCD1F881B7900B6D644 /* space.gif in Resources */ = {isa = PBXBuildFile; fileRef = BFC89FCC1F881B7900B6D644 /* space.gif */; };
+		BFC89FCF1F8843E200B6D644 /* alertImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFC89FCE1F8843E200B6D644 /* alertImage.swift */; };
+		BFE023471F8415E6005B6B68 /* scrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE023461F8415E6005B6B68 /* scrollView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BF15C6DC1F86733600D0EEB9 /* scrollviewio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = scrollviewio.swift; sourceTree = "<group>"; };
+		BF15C6DE1F867B5F00D0EEB9 /* scrollViewNessus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = scrollViewNessus.swift; sourceTree = "<group>"; };
+		BF9B54D41F86B98700481F79 /* scrollViewTitan.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = scrollViewTitan.swift; sourceTree = "<group>"; };
+		BFA1FFBD1F8561EE008CA745 /* gif.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = gif.swift; sourceTree = "<group>"; };
+		BFA1FFBF1F8563D4008CA745 /* galaxy.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = galaxy.gif; sourceTree = "<group>"; };
 		BFB0956F1F83CC7F0010FD76 /* Midterm-Assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Midterm-Assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFB095721F83CC7F0010FD76 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BFB095741F83CC7F0010FD76 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BFB095771F83CC7F0010FD76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BFB095791F83CC7F0010FD76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BFB0957C1F83CC7F0010FD76 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BFB0957E1F83CC7F0010FD76 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BFB095841F83D07D0010FD76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BFC89FCC1F881B7900B6D644 /* space.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = space.gif; sourceTree = "<group>"; };
+		BFC89FCE1F8843E200B6D644 /* alertImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = alertImage.swift; sourceTree = "<group>"; };
+		BFE023461F8415E6005B6B68 /* scrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = scrollView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +73,17 @@
 				BFB095721F83CC7F0010FD76 /* AppDelegate.swift */,
 				BFB095741F83CC7F0010FD76 /* ViewController.swift */,
 				BFB095761F83CC7F0010FD76 /* Main.storyboard */,
-				BFB095791F83CC7F0010FD76 /* Assets.xcassets */,
+				BFC89FCE1F8843E200B6D644 /* alertImage.swift */,
+				BF15C6DE1F867B5F00D0EEB9 /* scrollViewNessus.swift */,
+				BF15C6DC1F86733600D0EEB9 /* scrollviewio.swift */,
+				BFA1FFBD1F8561EE008CA745 /* gif.swift */,
+				BFE023461F8415E6005B6B68 /* scrollView.swift */,
+				BFA1FFBF1F8563D4008CA745 /* galaxy.gif */,
+				BFC89FCC1F881B7900B6D644 /* space.gif */,
+				BFB095841F83D07D0010FD76 /* Assets.xcassets */,
 				BFB0957B1F83CC7F0010FD76 /* LaunchScreen.storyboard */,
 				BFB0957E1F83CC7F0010FD76 /* Info.plist */,
+				BF9B54D41F86B98700481F79 /* scrollViewTitan.swift */,
 			);
 			path = "Midterm-Assignment";
 			sourceTree = "<group>";
@@ -123,8 +147,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BFA1FFC01F8563D4008CA745 /* galaxy.gif in Resources */,
+				BFC89FCD1F881B7900B6D644 /* space.gif in Resources */,
 				BFB0957D1F83CC7F0010FD76 /* LaunchScreen.storyboard in Resources */,
-				BFB0957A1F83CC7F0010FD76 /* Assets.xcassets in Resources */,
+				BFB095851F83D07D0010FD76 /* Assets.xcassets in Resources */,
 				BFB095781F83CC7F0010FD76 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -136,8 +162,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BF9B54D51F86B98700481F79 /* scrollViewTitan.swift in Sources */,
+				BF15C6DF1F867B5F00D0EEB9 /* scrollViewNessus.swift in Sources */,
+				BFE023471F8415E6005B6B68 /* scrollView.swift in Sources */,
 				BFB095751F83CC7F0010FD76 /* ViewController.swift in Sources */,
+				BFA1FFBE1F8561EE008CA745 /* gif.swift in Sources */,
 				BFB095731F83CC7F0010FD76 /* AppDelegate.swift in Sources */,
+				BFC89FCF1F8843E200B6D644 /* alertImage.swift in Sources */,
+				BF15C6DD1F86733600D0EEB9 /* scrollviewio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -301,6 +333,7 @@
 				BFB095831F83CC7F0010FD76 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
